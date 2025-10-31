@@ -12,3 +12,6 @@ it reverses the digits of the numbers and compares it with the original value.
   Concepts used
   .Loops(While)
   .Conditional statements(if-else)
+Support my work
+if u like this project,you can support me here
+github.com/sponsors/vamsidola9-sketch
